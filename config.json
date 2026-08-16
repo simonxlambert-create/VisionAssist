@@ -1,0 +1,14 @@
+{
+  "sound_enabled": true,
+  "double_tap_timeout": 0.42,
+  "size_normal": 32,
+  "size_large": 64,
+  "size_xl": 96,
+  "sizes_cycle": [
+    32,
+    64,
+    96
+  ],
+  "last_color": "red",
+  "enable_mouse_sonar": true
+}
